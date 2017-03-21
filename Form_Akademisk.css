@@ -486,7 +486,9 @@ h4.tocSectionTitle {
 #headerTitle {height: auto;}
 #headerTitle a {
 	text-decoration: none;
-	height: auto;
+	display: block;
+	height: 5em;
+	height: 5rem;
 	padding: 0;
 	margin: 0;
 }
