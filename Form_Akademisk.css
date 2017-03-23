@@ -125,11 +125,11 @@ input.defaultButton {
 	text-transform: none;
 }
 #navbar .menu li a:hover {
-    background-color: #ff6c00;
+    background-color: #775e82;
     color: white;
 }
 #navbar .menu li a:focus {
-    background-color: #ff6c00;
+    background-color: #775e82;
     color: white;
 }
 #navbar li.currentPage a {
@@ -478,10 +478,10 @@ h4.tocSectionTitle {
 	box-sizing: border-box;
 	background-image: url(Form_Akademisk_390x120.png);
 	background-repeat: no-repeat;
-	background-position: center center;
-	background-size: contain;
+	background-position: 40%;
+	/*background-size: contain;
 	min-height: 5em;
-    min-height: 5rem;
+        min-height: 5rem;*/
 }
 #headerTitle {height: auto;}
 #headerTitle a {
