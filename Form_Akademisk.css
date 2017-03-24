@@ -476,12 +476,12 @@ h4.tocSectionTitle {
 	border-left: 1px solid gray;
 	border-right: 1px solid gray;
 	box-sizing: border-box;
-	background-image: url(Form_Akademisk_390x120.png);
+	background-image: url(Form_Akademisk_402x71.png);
 	background-repeat: no-repeat;
 	background-position: 40%;
-	/*background-size: contain;
+	background-size: auto 95%;
 	min-height: 5em;
-        min-height: 5rem;*/
+    min-height: 5rem;
 }
 #headerTitle {height: auto;}
 #headerTitle a {
